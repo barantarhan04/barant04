@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 | Kocasinan Anatolian High School  | 2016|
 | Anadolu University   | 2020|
 | Harran University  | 2022|
+| Silesia University  | 2023 - continue|
 
-
-
-	[Google'a gitmek için tıklayın](https://www.google.com/)
-	This site was built using [GitHub Pages](https://pages.github.com/).
+	
 	[My Twitter](https://twitter.com/barant004)
 
 <h5>Hobbies</h5>
@@ -52,11 +50,10 @@ Here are some ideas to get you started:
 
 
 
-	My favorite food **pide** <br>
-	my favorite fruit **_banana_** <br>
+	I’m currently learning **unity** <br>
+	my favorite social media **_twitter_** <br>
 	My favorite activity _coding the game_
 	
-And a equation:
 
 	$2x + 3 = 7$
 
