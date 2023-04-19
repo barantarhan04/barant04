@@ -14,55 +14,67 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
+
+
 <html>
 <head>
-	<title>Başlıklar</title>
-	<style>
-		h1 {
-			color: blue;
-		}
-		h2 {
-			color: green;
-		}
-		ul {
-			list-style-type: square;
-		}
-	</style>
+	<title>Headers, Table, Hyperlink, Ordered List, Unordered List, Text Formatting, and Equation</title>
 </head>
 <body>
-	<h1>Başlıklar</h1>
+	<h1>Headers</h1>
 
-	<h2>Masa</h2>
-	<p>Masa, genellikle ahşap veya metal malzemelerden yapılan, yemek yemek, çalışmak veya diğer aktiviteler için kullanılan bir mobilyadır.</p>
+	<h2>Table</h2>
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+			<th>Gender</th>
+		</tr>
+		<tr>
+			<td>John</td>
+			<td>25</td>
+			<td>Male</td>
+		</tr>
+		<tr>
+			<td>Jane</td>
+			<td>30</td>
+			<td>Female</td>
+		</tr>
+		<tr>
+			<td>Jack</td>
+			<td>40</td>
+			<td>Male</td>
+		</tr>
+	</table>
 
-	<h2>Köprü</h2>
-	<p>Köprü, nehirler, vadiler veya diğer engeller üzerinden geçmek için yapılan bir yapıdır. Köprüler, çeşitli malzemelerden yapılabilmektedir ve genellikle ulaşımın daha hızlı ve verimli olmasını sağlar.</p>
+	<h2>Hyperlink</h2>
+	<p>Click <a href="https://www.google.com/">here</a> to visit Google.</p>
 
-	<h2>Sıralı Liste</h2>
+	<h2>Ordered List</h2>
 	<ol>
-		<li>Sabah kahvaltısı</li>
-		<li>Öğle yemeği</li>
-		<li>Akşam yemeği</li>
-		<li>Ara öğün</li>
+		<li>Breakfast</li>
+		<li>Lunch</li>
+		<li>Dinner</li>
+		<li>Snack</li>
 	</ol>
 
-	<h2>Sırasız Liste</h2>
+	<h2>Unordered List</h2>
 	<ul>
-		<li>Elma</li>
-		<li>Portakal</li>
-		<li>Muz</li>
-		<li>Kivi</li>
+		<li>Apple</li>
+		<li>Orange</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
 	</ul>
 
-	<h2>Kalın, italik ve kalın italik biçimli yazı tiplerine sahip bazı metinler</h2>
-	<p><strong>Kalın Yazı Tipi</strong></p>
-	<p><em>İtalik Yazı Tipi</em></p>
-	<p><strong><em>Kalın ve İtalik Yazı Tipi</em></strong></p>
+	<h2>Text Formatting</h2>
+	<p><strong>Bold Text</strong></p>
+	<p><em>Italic Text</em></p>
+	<p><strong><em>Bold-Italic Text</em></strong></p>
 
-	<h2>Denklem</h2>
-	<p>Birinci dereceden bir denklem: <code>ax + b = 0</code></p>
-
+	<h2>Equation</h2>
+	<p>A first-degree equation: <code>ax + b = 0</code></p>
 </body>
 </html>
+
+
 
