@@ -18,61 +18,48 @@ Here are some ideas to get you started:
 
 <html>
 <head>
-	<title>Headers, Table, Hyperlink, Ordered List, Unordered List, Text Formatting, and Equation</title>
+	Headers, Table, Hyperlink, Ordered List, Unordered List, Text Formatting, and Equation
 </head>
 <body>
-	<h1>Headers</h1>
+	<h1>Hi, I'm Baran</h1>
 
-	<h2>Table</h2>
-	<table>
-		<tr>
-			<th>Name</th>
-			<th>Age</th>
-			<th>Gender</th>
-		</tr>
-		<tr>
-			<td>John</td>
-			<td>25</td>
-			<td>Male</td>
-		</tr>
-		<tr>
-			<td>Jane</td>
-			<td>30</td>
-			<td>Female</td>
-		</tr>
-		<tr>
-			<td>Jack</td>
-			<td>40</td>
-			<td>Male</td>
-		</tr>
-	</table>
+| School/University  | Year |
+|--------|-----|
+| Kocasinan Anatolian High School  | 2016|
+| Anadolu University   | 2020|
+| Harran University  | 2022|
 
-	<h2>Hyperlink</h2>
-	<p>Click <a href="https://www.google.com/">here</a> to visit Google.</p>
 
-	<h2>Ordered List</h2>
-	<ol>
-		<li>Breakfast</li>
-		<li>Lunch</li>
-		<li>Dinner</li>
-		<li>Snack</li>
-	</ol>
 
-	<h2>Unordered List</h2>
-	<ul>
-		<li>Apple</li>
-		<li>Orange</li>
-		<li>Banana</li>
-		<li>Kiwi</li>
-	</ul>
+	[Google'a gitmek için tıklayın](https://www.google.com/)
+	This site was built using [GitHub Pages](https://pages.github.com/).
+	[My Twitter](https://twitter.com/barant004)
 
-	<h2>Text Formatting</h2>
-	<p><strong>Bold Text</strong></p>
-	<p><em>Italic Text</em></p>
-	<p><strong><em>Bold-Italic Text</em></strong></p>
+<h5>Hobbies</h5>
+	
+1. Play computer games
+2. Visiting historical sites
+3. Reading book
+4. Discovering new places
 
-	<h2>Equation</h2>
-	<p>A first-degree equation: <code>ax + b = 0</code></p>
+<h5>Favorite Sports</h5>
+
+- Football
+- Basketball
+- Billiard
+- Golf
+- Tennis
+
+
+
+	My favorite food **pide** <br>
+	my favorite fruit **_banana_** <br>
+	My favorite activity _coding the game_
+	
+And a equation:
+
+	$2x + 3 = 7$
+
 </body>
 </html>
 
