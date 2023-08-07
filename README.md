@@ -52,6 +52,3 @@ Here are some ideas to get you started:
 
 </body>
 </html>
-
-https://github.com/barant04/barant04.git
-
