@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 | School/University  | Year |
 |--------|-----|
-| Kocasinan Anatolian High School  | 2016|
-| Anadolu University   | 2020|
-| Harran University  | 2022|
+| Kocasinan Anatolian High School  | 2012-2016|
+| Anadolu University   | 2018-2020|
+| Harran University  | 2017-2022|
 | Silesia University  | 2023 - continue|
 
 	
