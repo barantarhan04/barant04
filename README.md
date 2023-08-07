@@ -48,14 +48,7 @@ Here are some ideas to get you started:
 - Golf
 - Tennis
 
-
-
-	I’m currently learning **unity** <br>
-	my favorite social media **_twitter_** <br>
-	My favorite activity _coding the game_
 	
-
-	$2x + 3 = 7$
 
 </body>
 </html>
